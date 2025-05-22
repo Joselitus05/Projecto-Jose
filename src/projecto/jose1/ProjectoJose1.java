@@ -7,6 +7,7 @@ public class ProjectoJose1 {
         System.out.println("Hola");
         System.out.println("Adios");
         System.out.println("Jose");
+        System.out.println("Maria");
     }
     
 }
